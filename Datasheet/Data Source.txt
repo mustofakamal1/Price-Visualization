@@ -1,0 +1,22 @@
+Data Harga Rare Metal, Sumber Supplier, dan Nilai Permintaan
+
+Gold Price.csv berisi data Harga emas dari tahun 1978 hingga 2019. Data yang diambil hanya bagian currency USD saja dari sumber dibawah.
+Gold Supply_Demands data Jumlah supply dan demands emas dari tahun 2010 hingga 2018. Data yang diambil hanya bagian jumlah totalnya saja dari sumber dibawah.
+JOHNMATT-PALL berisi data harga paladium dari tahun 1972 hingga 2019.
+JOHNMATT-PALLADIUM berisi data sumber supply dan nilai nya serta demandnya dari paladium  tahun 1972 hingga 2019.
+JOHNMATT-PLAT berisi data harga platinum dari tahun 1972 hingga 2019.
+JOHNMATT-PLATINUM berisi data sumber supply dan nilai nya serta demandnya dari platinum tahun 1972 hingga 2019.
+
+Data harga akan dibandingkan masing-masing terhadap variabel jumlah suplai, permintaan, dan sumber supply (yang ada) untuk dilihat pengaruhnya yang terjadi.
+Data harga antar jenis logam juga akan dibandingkan untuk diketahui apakah ada pengaruhnya satu sama lain.
+Data harga kemungkinan juga akan dihitung prediksi di masa yang akan datang atau probabilitasnya atas kemungkinan yang akan terjadi.
+
+Beberapa data terlebih dahulu dilakukan cleaning untuk menghindari nilai Null dan format yang tidak tepat sehingga tidak persis sama dengan sumber.
+
+Source:
+https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics
+https://www.gold.org/goldhub/data/gold-prices
+https://www.quandl.com/data/JOHNMATT/PALL-Palladium-Prices
+https://www.quandl.com/data/JOHNMATT/PLAT-Platinum-Prices
+https://www.quandl.com/data/JOHNMATT/PALLADIUM-Palladium-Supply-Sources-and-Demand
+https://www.quandl.com/data/JOHNMATT/PLATINUM-Platinum-Supply-Sources-and-Demand
