@@ -1,3 +1,3 @@
-# Price-Visualization
-# Class Project
-ProbStok 03
+# Rare-Metal-Price-Prediction-with-Supply-and-Demand
+
+See Rare Metal Price Prediction with Supply and Demand.ipynb for details.
